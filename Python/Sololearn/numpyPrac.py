@@ -1,5 +1,13 @@
-import numpy
+import numpy as np
 import matplotlib.pyplot as plt
+import re
+
+#function to tokenize text and keep onl wors 
+#def tokenize_text(text):
+
+
+
+
 
 
 print(numpy.__version__)
